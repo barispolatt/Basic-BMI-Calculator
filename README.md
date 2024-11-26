@@ -1,2 +1,2 @@
 # Basic-BMI-Calculator
-BMI calculating just using basic java codes.
+BMI calculation by using basic java codes.
